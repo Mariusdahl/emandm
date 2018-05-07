@@ -1,0 +1,252 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mariusdahl.dk" resolutions="1x,2x" timestamp="1525687620776">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_desktop-master.css" crc="3857849471" ref="spektrum:norwegian:made-for-sharing:print:google-hint:bbc-center:index:about-us"/>
+    <file name="nomq_preview_master_desktop-master.css" crc="418998054" ref="spektrum:norwegian:made-for-sharing:print:google-hint:bbc-center:index:about-us"/>
+    <file name="spektrum.css" crc="529596427" ref="spektrum"/>
+    <file name="nomq_spektrum.css" crc="3837285095" ref="spektrum"/>
+    <file name="norwegian.css" crc="164160030" ref="norwegian"/>
+    <file name="nomq_norwegian.css" crc="3858001151" ref="norwegian"/>
+    <file name="made-for-sharing.css" crc="4058528383" ref="made-for-sharing"/>
+    <file name="nomq_made-for-sharing.css" crc="356903783" ref="made-for-sharing"/>
+    <file name="print.css" crc="494256174" ref="print"/>
+    <file name="nomq_print.css" crc="149389833" ref="print"/>
+    <file name="google-hint.css" crc="3804805475" ref="google-hint"/>
+    <file name="nomq_google-hint.css" crc="3846536880" ref="google-hint"/>
+    <file name="bbc-center.css" crc="100440081" ref="bbc-center"/>
+    <file name="nomq_bbc-center.css" crc="307768051" ref="bbc-center"/>
+    <file name="index.css" crc="112362024" ref="index"/>
+    <file name="nomq_index.css" crc="291630232" ref="index"/>
+    <file name="about-us.css" crc="4265912288" ref="about-us"/>
+    <file name="nomq_about-us.css" crc="474552048" ref="about-us"/>
+  </folder>
+  <folder name="assets">
+    <file name="googlehint.mp4" crc="4149498170" seo="true" mt="1525191923000"/>
+    <file name="bloomingcities.mp4" crc="340294973" seo="true" mt="1525192231000"/>
+    <file name="instagram.bloomingcities.pdf" crc="3820836289" seo="true" mt="1525258717000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:spektrum:norwegian:google-hint:made-for-sharing:print:about-us:bbc-center"/>
+    <file name="museutils.js" crc="340535759" ref="index:spektrum:norwegian:google-hint:made-for-sharing:print:about-us:bbc-center"/>
+    <file name="whatinput.js" crc="86476730" ref="index:spektrum:norwegian:google-hint:made-for-sharing:print:about-us:bbc-center"/>
+    <file name="museconfig.js" crc="310584261" ref="index:spektrum:norwegian:google-hint:made-for-sharing:print:about-us:bbc-center"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:spektrum:norwegian:google-hint:made-for-sharing:print:about-us:bbc-center"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:spektrum:norwegian:google-hint:made-for-sharing:print:about-us:bbc-center"/>
+    <file name="require.js" crc="7928878" ref="index:spektrum:norwegian:google-hint:made-for-sharing:print:about-us:bbc-center"/>
+  </folder>
+  <folder name="images">
+    <file name="yesthisisus.jpg" crc="3907114666" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="yesthisisus_2x.jpg" crc="84825672" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:spektrum:norwegian:google-hint:made-for-sharing:print:about-us:bbc-center"/>
+    <file name="still_bc_leaflet-crop-u795.jpg" crc="3855980123" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="still_googlehint_1.jpg" crc="3995516758" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="still_googlehint_1_2x.jpg" crc="393418348" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="still_toblerone0-crop-u1144.jpg" crc="4042689365" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="still_bbc3.jpg" crc="3946787931" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="still_bbc3_2x.jpg" crc="3847178485" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="yesthisisus729x971.jpg" crc="4087957725" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="yesthisisus729x971_2x.jpg" crc="229640748" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="still_bc_leaflet-crop-u7952.jpg" crc="3769246662" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="still_googlehint_1728x405.jpg" crc="85196633" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="still_googlehint_1728x405_2x.jpg" crc="3938556249" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="still_toblerone0-crop-u11442.jpg" crc="208962969" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="still_bbc3728x410.jpg" crc="4024718580" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="still_bbc3728x410_2x.jpg" crc="3966949124" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="still_bc_leaflet-crop-u7953.jpg" crc="3769246662" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="still_toblerone0-crop-u11443.jpg" crc="208962969" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="guardian-crop-u583.jpg" crc="218502034" seo="true" ref="norwegian">
+      <caption webpage="norwegian" alt=""/>
+    </file>
+    <file name="guardian-crop-u583_2x.jpg" crc="508621921" seo="true" ref="norwegian">
+      <caption webpage="norwegian" alt=""/>
+    </file>
+    <file name="still_bc_leaflet736x219.jpg" crc="4254325512" seo="true" ref="norwegian">
+      <caption webpage="norwegian" alt=""/>
+    </file>
+    <file name="still_bc_leaflet736x219_2x.jpg" crc="144927618" seo="true" ref="norwegian">
+      <caption webpage="norwegian" alt=""/>
+    </file>
+    <file name="1234-crop-u603.png" crc="168079081" seo="true" ref="norwegian">
+      <caption webpage="norwegian" alt=""/>
+    </file>
+    <file name="1234-crop-u603_2x.png" crc="4168211522" seo="true" ref="norwegian">
+      <caption webpage="norwegian" alt=""/>
+    </file>
+    <file name="still_bc_1186x136.jpg" crc="3954683173" seo="true" ref="norwegian">
+      <caption webpage="norwegian" alt=""/>
+    </file>
+    <file name="still_bc_1186x136_2x.jpg" crc="3907443294" seo="true" ref="norwegian">
+      <caption webpage="norwegian" alt=""/>
+    </file>
+    <file name="still_bc_2184x135.jpg" crc="3995192982" seo="true" ref="norwegian">
+      <caption webpage="norwegian" alt=""/>
+    </file>
+    <file name="still_bc_2184x135_2x.jpg" crc="202151129" seo="true" ref="norwegian">
+      <caption webpage="norwegian" alt=""/>
+    </file>
+    <file name="still_bc_3.jpg" crc="4183264726" seo="true" ref="norwegian">
+      <caption webpage="norwegian" alt=""/>
+      <caption webpage="norwegian" alt=""/>
+      <caption webpage="norwegian" alt=""/>
+    </file>
+    <file name="still_bc_3_2x.jpg" crc="3954478584" seo="true" ref="norwegian">
+      <caption webpage="norwegian" alt=""/>
+      <caption webpage="norwegian" alt=""/>
+      <caption webpage="norwegian" alt=""/>
+    </file>
+    <file name="guardian-crop-u5832.jpg" crc="218502034" seo="true" ref="norwegian">
+      <caption webpage="norwegian" alt=""/>
+    </file>
+    <file name="guardian-crop-u583_2x2.jpg" crc="508621921" seo="true" ref="norwegian">
+      <caption webpage="norwegian" alt=""/>
+    </file>
+    <file name="still_bc_leaflet728x217.jpg" crc="3832084274" seo="true" ref="norwegian">
+      <caption webpage="norwegian" alt=""/>
+      <caption webpage="norwegian" alt=""/>
+    </file>
+    <file name="still_bc_leaflet728x217_2x.jpg" crc="349839329" seo="true" ref="norwegian">
+      <caption webpage="norwegian" alt=""/>
+      <caption webpage="norwegian" alt=""/>
+    </file>
+    <file name="1234-crop-u6032.png" crc="168079081" seo="true" ref="norwegian">
+      <caption webpage="norwegian" alt=""/>
+    </file>
+    <file name="1234-crop-u603_2x2.png" crc="4168211522" seo="true" ref="norwegian">
+      <caption webpage="norwegian" alt=""/>
+    </file>
+    <file name="still_bc_1.jpg" crc="248950145" seo="true" ref="norwegian">
+      <caption webpage="norwegian" alt=""/>
+      <caption webpage="norwegian" alt=""/>
+    </file>
+    <file name="still_bc_1_2x.jpg" crc="3877888919" seo="true" ref="norwegian">
+      <caption webpage="norwegian" alt=""/>
+      <caption webpage="norwegian" alt=""/>
+    </file>
+    <file name="still_bc_2.jpg" crc="460011832" seo="true" ref="norwegian">
+      <caption webpage="norwegian" alt=""/>
+      <caption webpage="norwegian" alt=""/>
+    </file>
+    <file name="still_bc_2_2x.jpg" crc="4117417670" seo="true" ref="norwegian">
+      <caption webpage="norwegian" alt=""/>
+      <caption webpage="norwegian" alt=""/>
+    </file>
+    <file name="guardian-crop-u5833.jpg" crc="218502034" seo="true" ref="norwegian">
+      <caption webpage="norwegian" alt=""/>
+    </file>
+    <file name="guardian-crop-u583_2x3.jpg" crc="508621921" seo="true" ref="norwegian">
+      <caption webpage="norwegian" alt=""/>
+    </file>
+    <file name="1234-crop-u6033.png" crc="168079081" seo="true" ref="norwegian">
+      <caption webpage="norwegian" alt=""/>
+    </file>
+    <file name="1234-crop-u603_2x3.png" crc="4168211522" seo="true" ref="norwegian">
+      <caption webpage="norwegian" alt=""/>
+    </file>
+    <file name="still_toblerone0616x923.jpg" crc="4158988990" seo="true" ref="made-for-sharing">
+      <caption webpage="made-for-sharing" alt=""/>
+    </file>
+    <file name="still_toblerone1616x923.jpg" crc="3929456624" seo="true" ref="made-for-sharing">
+      <caption webpage="made-for-sharing" alt=""/>
+    </file>
+    <file name="still_toblerone3616x923.jpg" crc="507177298" seo="true" ref="made-for-sharing">
+      <caption webpage="made-for-sharing" alt=""/>
+    </file>
+    <file name="still_toblerone2616x923.jpg" crc="3822272679" seo="true" ref="made-for-sharing">
+      <caption webpage="made-for-sharing" alt=""/>
+    </file>
+    <file name="still_toblerone0728x1090.jpg" crc="3946425510" seo="true" ref="made-for-sharing">
+      <caption webpage="made-for-sharing" alt=""/>
+      <caption webpage="made-for-sharing" alt=""/>
+    </file>
+    <file name="still_toblerone1.jpg" crc="4114332435" seo="true" ref="made-for-sharing">
+      <caption webpage="made-for-sharing" alt=""/>
+      <caption webpage="made-for-sharing" alt=""/>
+    </file>
+    <file name="still_toblerone3.jpg" crc="521660395" seo="true" ref="made-for-sharing">
+      <caption webpage="made-for-sharing" alt=""/>
+      <caption webpage="made-for-sharing" alt=""/>
+    </file>
+    <file name="still_toblerone2.jpg" crc="3775038792" seo="true" ref="made-for-sharing">
+      <caption webpage="made-for-sharing" alt=""/>
+      <caption webpage="made-for-sharing" alt=""/>
+    </file>
+    <file name="combined.jpg" crc="4265707537" seo="true" ref="about-us">
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="combined_2x.jpg" crc="198540600" seo="true" ref="about-us">
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="combined728x255.jpg" crc="420184007" seo="true" ref="about-us">
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="combined728x255_2x.jpg" crc="4147143206" seo="true" ref="about-us">
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="still_bbc2.jpg" crc="4130117078" seo="true" ref="bbc-center">
+      <caption webpage="bbc-center" alt=""/>
+    </file>
+    <file name="still_bbc2_2x.jpg" crc="116032024" seo="true" ref="bbc-center">
+      <caption webpage="bbc-center" alt=""/>
+    </file>
+    <file name="still_bbc2728x410.jpg" crc="4099944793" seo="true" ref="bbc-center">
+      <caption webpage="bbc-center" alt=""/>
+      <caption webpage="bbc-center" alt=""/>
+    </file>
+    <file name="still_bbc2728x410_2x.jpg" crc="46725116" seo="true" ref="bbc-center">
+      <caption webpage="bbc-center" alt=""/>
+      <caption webpage="bbc-center" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="402771099" seo="true" mt="1525687485505" redirect="true"/>
+  <file name="spektrum.html" crc="167540763" seo="true" mt="1525687466939" redirect="true"/>
+  <file name="norwegian.html" crc="4233420677" seo="true" mt="1525687503852" redirect="true"/>
+  <file name="google-hint.html" crc="4111996885" seo="true" mt="1525687515451" redirect="true"/>
+  <file name="made-for-sharing.html" crc="313400627" seo="true" mt="1525687531438" redirect="true"/>
+  <file name="print.html" crc="323677576" seo="true" mt="1525687466939" redirect="true"/>
+  <file name="about-us.html" crc="512093461" seo="true" mt="1525687493463" redirect="true"/>
+  <file name="bbc-center.html" crc="335879565" seo="true" mt="1525687547502" redirect="true"/>
+</manifest>
